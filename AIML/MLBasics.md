@@ -32,6 +32,7 @@ Where:
 
 We need a way to measure total error.
 Linear regression uses:
+<br>
 <img width="428" height="109" alt="image" src="https://github.com/user-attachments/assets/5d95597d-5e54-410b-8fa2-72c7049f1945" />
 
 Why squared?
