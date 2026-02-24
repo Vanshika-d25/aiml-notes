@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIML/MLBasics.md",
+                "file": "AIML/ML Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MLBasics"
+              "title": "ML Basics"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIML/MLBasics.md",
+                "file": "AIML/Gn/Page 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MLBasics"
+              "title": "Backlinks for Page 1"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIML/MLBasics.md",
+                "file": "AIML/Gn/Page 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MLBasics"
+              "title": "Outgoing links from Page 1"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIML/MLBasics.md",
+                "file": "AIML/Gn/Page 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MLBasics"
+              "title": "Outline of Page 1"
             }
           }
         ]
@@ -186,6 +186,11 @@
   },
   "active": "3fd302c112118cd6",
   "lastOpenFiles": [
+    "AIML/Gn/Page 1.md",
+    "AIML/ML Basics.md",
+    "Pasted image 20260224210207.png",
+    "Untitled",
+    "AIML/Gn",
     "Pasted image 20260223121104.png",
     "Pasted image 20260223115638.png",
     "Pasted image 20260223115620.png",
@@ -195,11 +200,7 @@
     "Pasted image 20260223114450.png",
     "Pasted image 20260223112916.png",
     "Pasted image 20260223111305.png",
-    "Pasted image 20260223110225.png",
-    "Pasted image 20260223102512.png",
     "Welcome.md",
-    "AIML/MLBasics.md",
-    "Untitled",
     "Untitled 1",
     "AIML"
   ]

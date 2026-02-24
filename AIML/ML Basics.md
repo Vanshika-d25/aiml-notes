@@ -66,6 +66,7 @@ When the relationship between X and Y is not linear, so instead of plotting the 
 Linear regression + L2 regularization (penalty)
 
 L2 regularization (also called **Ridge regularization** or **weight decay**) is a technique used in machine learning to reduce **overfitting** by discouraging large parameter values.
+
 Instead of only minimizing the training error, we add a penalty for large weights.
 - Ridge Regression solves two problems-> overfitting(when noise is also fitted instead of true patterns)
 - Multicollinearity (when features are strongly correlated)
@@ -161,3 +162,26 @@ Decision Boundary:
 4. Repeat K times
 5. make record of accuracy per iteration
 6. then average accuracy is the final accuracy
+
+### KNN K nearest neighbors
+Similar data points tend to have similar output.
+- We chose a value K 
+- Pick how many neighbors you want to consider
+- k=1 look at only the closest point
+- k=5 look at the 5 closest points
+
+- Measure distance between the new point, and every training point using Euclidean Distance.
+- find nearest neighbors
+### Naive Bayes
+It is a probabilistic classifier
+
+Bayes Theorem
+![[Pasted image 20260224210207.png]]
+In plain language:
+Posterior = Likelihood × Prior / Evidence
+Where:
+
+✔ **Posterior** → What we want  
+✔ **Likelihood** → How likely data is under a class  
+✔ **Prior** → Initial belief about class  
+✔ **Evidence** → Normalization factor
