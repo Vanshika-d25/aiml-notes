@@ -14,7 +14,7 @@ c. Regression based on error handling
    8. Robust regression
 d. based on output distribution
 9. Poisson Regression
-10. Negative binomial
+10. Negative binomials
 
 
 ## ***Regression*** 
